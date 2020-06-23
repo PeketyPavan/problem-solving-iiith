@@ -6,7 +6,7 @@
 * Introduction 
   Quality assurance (QA) is a process of recognizing the bugs and
   rectifying them in a systematic way. This will ensures the end user
-  that the application is ready to use with no distortions.
+  that the application is ready to use with no distortions. thank you
 
   - PURPOSE: This document outlines the QA process for  Virtual Labs.
     
